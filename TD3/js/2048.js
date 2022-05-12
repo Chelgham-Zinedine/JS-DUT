@@ -1,13 +1,3 @@
-/**
- *
- * M413 - TD3 - 2048 Game
- * *
- * @author Jean-Michel Bruneau
- *    @copyright UCA - IUT -INFO
- * @version    1.0
- * @date            2021-01-31
- *
- */
 
 
 const BOX_PER_LINE_NUMBER = 4;

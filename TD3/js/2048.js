@@ -1,4 +1,13 @@
-
+/**
+* 
+* M413 - TD3 - 2018 Game
+* * 
+* @author Zinedine chelgham
+*@copyright UCA - IUT -INFO
+* @version	1.0
+* @date	2021-01-31
+*
+*/
 
 const BOX_PER_LINE_NUMBER = 4;
 let gridTab = [];

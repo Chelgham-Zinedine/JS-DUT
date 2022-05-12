@@ -2,7 +2,7 @@
 * 
 * M413 - TD5
 *
-* @author Jean-Michel Bruneau
+* @author Zinedine Chelgham
 *	@copyright UCA - IUT - INFO
 * @version 1.0
 * @date	2021-03-01

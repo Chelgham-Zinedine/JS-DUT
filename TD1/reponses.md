@@ -37,14 +37,14 @@
 
 #7.1
 
-    => j'utilise setInterval car elle appelle m'a fonction à un interval régulier contrairement à setTimout qui appelle m'a fonction 
+    => j'utilise setInterval car elle appelle m'a fonction de manière continuelle, contrairement à setTimout qui appelle ma fonction 
        qu'une fois après un certain intervale
 
 #8
 
     => J'ai utilisé l'évènement "submit"
 
-    => La couleur change en changeant le nom de classe classe
+    => La couleur change en changeant le nom de classe
 
 
 

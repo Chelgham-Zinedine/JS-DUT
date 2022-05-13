@@ -7,7 +7,7 @@ Les TD 1 et 2 sont une introduction au langage
   
  Le TD4 porte sur les flux RSS
 
-**Le TD5 consistait à implémenter une calculatrice en Full JS Responsive :** <br/>
+**Le TD5 consistait à implémenter une calculatrice en Full JS et de faire en sorte qu'elle soit Responsive :** <br/>
   lien : https://calculator-js-dut.netlify.app/
 
 enjoy :) !
